@@ -1,3 +1,3 @@
 # kavya-first
 Author - Kavya Patel<br>
-Sub-Learning git
+Sub-Learning git for the first time
